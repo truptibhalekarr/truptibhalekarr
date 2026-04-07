@@ -119,7 +119,7 @@ An RL environment where an AI agent learns to analyze data step-by-step — colu
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=truptibhalekarr&theme=radical&no-frame=true&no-bg=true&column=6)
+![Trophies](https://github-profile-trophy.vercel.app/?username=truptibhalekarr&theme=radical&no-frame=true&margin-w=10)
 
 </div>
 
