@@ -23,7 +23,7 @@
 
 ```python
 trupti = {
-    "role"      : "Data Science & Analytics with AI @ itvEdant",
+    "role"      : "Data Science & Analytics with AI @ itvedant",
     "mission"   : "Build AI systems that solve real-world business problems",
     "currently" : ["InsightIQ — Automated Business Intelligence System",
                    "RL-based Automated Data Analysis Agent"],
