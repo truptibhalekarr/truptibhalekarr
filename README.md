@@ -25,7 +25,8 @@
 trupti = {
     "role"      : "Data Science & Analytics with AI @ itvedant",
     "mission"   : "Build AI systems that solve real-world business problems",
-    "currently" : ["InsightIQ — Automated Business Intelligence System",
+    "currently" : ["Enclaveia — Privacy-First Local AI Decision Intelligence",
+                   "InsightIQ — Automated Business Intelligence System",
                    "RL-based Automated Data Analysis Agent"],
     "passionate": ["Making data speak", "Deploying AI to production", 
                    "Turning complexity into clarity"],
@@ -37,6 +38,27 @@ trupti = {
 
 ## 🚀 Featured Projects
 
+<!-- Enclaveia — Full Width, Highlighted -->
+<table>
+<tr>
+<td width="100%">
+
+### 🛡️ Enclaveia &nbsp;·&nbsp; <sub>![Hackathon](https://img.shields.io/badge/Gemma%204%20Good%20Hackathon-6f42c1?style=flat-square&logo=google&logoColor=white)</sub>
+**Privacy-First Local AI Decision Intelligence Dashboard**
+
+Upload any sensitive dataset and instantly get KPI dashboards, AI-generated executive summaries, and deep statistical insights — **entirely on your machine**. No cloud. No API keys. No data leakage.
+
+Powered by **Google Gemma 4** running locally via Ollama, Enclaveia is built for businesses and teams who can't risk sending financial, healthcare, or proprietary data to external servers.
+
+`Python` `FastAPI` `Next.js` `Pandas` `Ollama` `Gemma 4` `ECharts` `Tailwind CSS`
+
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github)](https://github.com/truptibhalekarr/Enclaveia)
+
+</td>
+</tr>
+</table>
+
+<!-- InsightIQ + RL side by side -->
 <table>
 <tr>
 <td width="50%">
@@ -91,6 +113,8 @@ An RL environment where an AI agent learns to analyze data step-by-step — colu
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 **Tools**
 
@@ -129,7 +153,7 @@ An RL environment where an AI agent learns to analyze data step-by-step — colu
 
 > *"I don't just want to analyze data — I want to build systems that make data analysis accessible, automated, and actionable for every business."*
 
-Currently focused on **InsightIQ** — a system that will let anyone upload a dataset and get a full business intelligence report, powered by AI. No analyst required.
+Currently focused on **Enclaveia** — a fully local AI intelligence platform that lets anyone upload sensitive datasets and get production-grade business insights, powered by Gemma 4, with zero data leaving their machine. And **InsightIQ** — taking the same vision to the cloud, making BI accessible without an analyst.
 
 ---
 
