@@ -23,7 +23,7 @@
 </a>
 
 <a href="mailto:truptibhalekarr@email.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-7C3AED?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-truptibhalekarr@gmail.com-7C3AED?style=for-the-badge&logo=gmail"/>
 </a>
 
 
