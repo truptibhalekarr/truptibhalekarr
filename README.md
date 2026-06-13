@@ -318,49 +318,40 @@ Business intelligence project analyzing AI adoption readiness and automation imp
 
 ### Languages
 
-
-![Python](https://img.shields.io/badge/Python-7C3AED?style=for-the-badge&logo=python&logoColor=white)
-
-![SQL](https://img.shields.io/badge/SQL-4F46E5?style=for-the-badge&logo=mysql&logoColor=white)
-
+<img src="https://skillicons.dev/icons?i=python,mysql" />
 
 
 ### AI / Data Science
 
+<img src="https://skillicons.dev/icons?i=tensorflow,sklearn" />
 
-![Pandas](https://img.shields.io/badge/Pandas-312E81?style=for-the-badge&logo=pandas)
+<br>
 
-![NumPy](https://img.shields.io/badge/NumPy-4338CA?style=for-the-badge&logo=numpy)
-
-![Scikit Learn](https://img.shields.io/badge/ScikitLearn-6D28D9?style=for-the-badge&logo=scikitlearn)
-
-![Matplotlib](https://img.shields.io/badge/Matplotlib-7C3AED?style=for-the-badge)
-
+<img src="https://img.shields.io/badge/Pandas-312E81?style=for-the-badge&logo=pandas"/>
+<img src="https://img.shields.io/badge/NumPy-4338CA?style=for-the-badge&logo=numpy"/>
+<img src="https://img.shields.io/badge/Matplotlib-6D28D9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Seaborn-7C3AED?style=for-the-badge"/>
 
 
 ### Development
 
+<img src="https://skillicons.dev/icons?i=fastapi,nextjs,react,html,css,js" />
 
-![FastAPI](https://img.shields.io/badge/FastAPI-4F46E5?style=for-the-badge&logo=fastapi)
+<br>
 
-![NextJS](https://img.shields.io/badge/Next.js-312E81?style=for-the-badge&logo=nextdotjs)
+<img src="https://img.shields.io/badge/Streamlit-7C3AED?style=for-the-badge&logo=streamlit"/>
 
-![Streamlit](https://img.shields.io/badge/Streamlit-7C3AED?style=for-the-badge&logo=streamlit)
 
+### Analytics
+
+<img src="https://img.shields.io/badge/PowerBI-312E81?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Tableau-4338CA?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Excel-6D28D9?style=for-the-badge"/>
 
 
 ### Tools
 
-
-![Git](https://img.shields.io/badge/Git-4338CA?style=for-the-badge&logo=git)
-
-![GitHub](https://img.shields.io/badge/GitHub-312E81?style=for-the-badge&logo=github)
-
-![VSCode](https://img.shields.io/badge/VS_Code-6D28D9?style=for-the-badge)
-
-![PowerBI](https://img.shields.io/badge/PowerBI-7C3AED?style=for-the-badge)
-
-![Tableau](https://img.shields.io/badge/Tableau-4F46E5?style=for-the-badge)
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker" />
 
 
 </div>
@@ -396,17 +387,15 @@ Business intelligence project analyzing AI adoption readiness and automation imp
 
 <div align="center">
 
+<img src="https://img.shields.io/badge/Python-Certified-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SQL-Certified-4F46E5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Machine_Learning-Certified-6D28D9?style=for-the-badge"/>
 
-![Python](https://img.shields.io/badge/Python-Certified-7C3AED?style=for-the-badge)
+<br><br>
 
-![SQL](https://img.shields.io/badge/SQL-Certified-4F46E5?style=for-the-badge)
-
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-Certified-6D28D9?style=for-the-badge)
-
-![Power BI](https://img.shields.io/badge/PowerBI-Certified-4338CA?style=for-the-badge)
-
-![Tableau](https://img.shields.io/badge/Tableau-Certified-312E81?style=for-the-badge)
-
+<img src="https://img.shields.io/badge/PowerBI-Certified-4338CA?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Tableau-Certified-312E81?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data_Visualization-Certified-7C3AED?style=for-the-badge"/>
 
 </div>
 
@@ -442,9 +431,7 @@ Business intelligence project analyzing AI adoption readiness and automation imp
 
 <div align="center">
 
-
-<img src="https://github-profile-trophy.vercel.app/?username=truptibhalekarr&theme=discord&no-frame=true&margin-w=10"/>
-
+<img src="https://github-profile-trophy.vercel.app/?username=truptibhalekarr&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15"/>
 
 </div>
 
