@@ -50,8 +50,9 @@ My focus is on combining **Machine Learning, Data Science, and Software Engineer
 
 <br>
 
+<div align="center">
 
-<table>
+<table width="85%">
 
 <tr>
 
@@ -87,6 +88,8 @@ My focus is on combining **Machine Learning, Data Science, and Software Engineer
 
 </table>
 
+</div>
+
 
 <br>
 
@@ -109,9 +112,11 @@ My focus is on combining **Machine Learning, Data Science, and Software Engineer
 # 🚀 Featured Projects
 
 
-<table>
+<div align="center">
+
+<table width="85%">
 <tr>
-<td width="100%">
+<td>
 
 
 ## 🛡️ Enclaveia
@@ -160,9 +165,11 @@ Built for teams handling private business, healthcare, or financial information 
 </tr>
 </table>
 
+</div>
 
+<div align="center">
 
-<table>
+<table width="85%">
 <tr>
 
 <td width="50%">
@@ -232,6 +239,9 @@ AI powered system converting datasets into dashboards and business insights auto
 </td>
 
 <table>
+
+</div>
+
 <tr>
 
 <td width="50%">
