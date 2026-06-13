@@ -436,21 +436,6 @@ Business intelligence project analyzing AI adoption readiness and automation imp
 </div>
 
 
-
----
-
-
-# 🏅 GitHub Trophies
-
-
-<div align="center">
-
-<img width="90%" src="https://github-profile-trophy.vercel.app/?username=truptibhalekarr&theme=radical&column=4&margin-w=15&margin-h=15"/>
-
-</div>
-
-
-
 ---
 
 
