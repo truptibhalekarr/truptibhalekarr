@@ -387,15 +387,29 @@ Business intelligence project analyzing AI adoption readiness and automation imp
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Python-Certified-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SQL-Certified-4F46E5?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Machine_Learning-Certified-6D28D9?style=for-the-badge"/>
+### Data Science & AI
+
+<br>
+
+<img src="https://img.shields.io/badge/Python-Programming-7C3AED?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-Database-4F46E5?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-AI-6D28D9?style=for-the-badge"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/PowerBI-Certified-4338CA?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Tableau-Certified-312E81?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data_Visualization-Certified-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NumPy%20%26%20Statistics-Data%20Science-312E81?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Pandas%20%26%20Visualization-Analytics-5B21B6?style=for-the-badge"/>
+
+<br><br>
+
+### Business Intelligence
+
+<br>
+
+<img src="https://img.shields.io/badge/Power%20BI-Dashboarding-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Tableau-Visualization-4F46E5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Advanced%20Excel-Analytics-6D28D9?style=for-the-badge"/>
+
 
 </div>
 
@@ -431,7 +445,7 @@ Business intelligence project analyzing AI adoption readiness and automation imp
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=truptibhalekarr&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15"/>
+<img width="90%" src="https://github-profile-trophy.vercel.app/?username=truptibhalekarr&theme=radical&column=4&margin-w=15&margin-h=15"/>
 
 </div>
 
