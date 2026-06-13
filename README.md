@@ -1,167 +1,552 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B9D,50:C44BD8,100:6B48FF&height=200&section=header&text=Trupti%20Bhalekar&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Data%20Scientist%20%7C%20AI%20Builder%20%7C%20Problem%20Solver&descAlignY=58&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:7C3AED,100:A855F7&height=220&section=header&text=Trupti%20Bhalekar&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=AI%20Engineer%20%7C%20Data%20Science%20Developer%20%7C%20Building%20Intelligent%20Systems&descAlignY=55&descSize=17&animation=fadeIn"/>
 
-<!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=C44BD8&center=true&vCenter=true&width=600&lines=Building+AI+that+solves+real+problems+%F0%9F%9A%80;Data+Science+%2B+Analytics+%2B+AI+%F0%9F%A7%A0;Automating+Business+Intelligence+%F0%9F%93%8A;Turning+data+into+decisions+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=850&lines=Building+AI+Products+That+Solve+Real+Problems;Machine+Learning+%7C+Analytics+%7C+Automation;Transforming+Data+Into+Intelligent+Decisions;Privacy+First+AI+%26+Smart+Engineering"/>
 </a>
 
 <br/>
 
-<!-- Social Badges -->
-[![GitHub](https://img.shields.io/badge/GitHub-truptibhalekarr-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/truptibhalekarr)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/truptibhalekarr)
+![AI](https://img.shields.io/badge/AI%20Developer-7C3AED?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-4F46E5?style=for-the-badge)
+![Data Science](https://img.shields.io/badge/Data%20Science-6D28D9?style=for-the-badge)
+
+<br/>
+
+<a href="https://github.com/truptibhalekarr">
+<img src="https://img.shields.io/badge/GitHub-truptibhalekarr-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/trupti-bhalekar-249578401">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:truptibhalekarr@email.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-7C3AED?style=for-the-badge&logo=gmail"/>
+</a>
+
+
+![Views](https://komarev.com/ghpvc/?username=truptibhalekarr&style=for-the-badge&color=7C3AED)
 
 </div>
 
+
 ---
+
 
 ## 🧠 About Me
 
+
 ```python
 trupti = {
-    "role"      : "Data Science & Analytics with AI @ itvedant",
-    "mission"   : "Build AI systems that solve real-world business problems",
-    "currently" : ["Enclaveia — Privacy-First Local AI Decision Intelligence",
-                   "InsightIQ — Automated Business Intelligence System",
-                   "RL-based Automated Data Analysis Agent"],
-    "passionate": ["Making data speak", "Deploying AI to production", 
-                   "Turning complexity into clarity"],
-    "location"  : "India 🇮🇳",
+
+    "role":
+        "AI & Data Science Developer",
+
+    "focus":
+        [
+            "Machine Learning Engineering",
+            "AI Powered Applications",
+            "Data Driven Products",
+            "Business Intelligence Systems"
+        ],
+
+    "currently_building":
+        [
+            "Enclaveia — Privacy First Local AI Platform",
+            "InsightIQ — Automated BI System",
+            "RL Data Analyst Agent"
+        ],
+
+    "engineering_mindset":
+        "Convert complex problems into simple intelligent solutions",
+
+    "location":
+        "India 🇮🇳"
 }
 ```
 
+
+I enjoy building **AI systems that go beyond notebooks** — transforming models, analytics, and ideas into usable products.
+
+My work combines:
+
+- Artificial Intelligence
+- Machine Learning
+- Full Stack AI Development
+- Data Analytics
+- Automation
+- Product Engineering
+
+
 ---
 
-## 🚀 Featured Projects
 
-<!-- Enclaveia — Full Width, Highlighted -->
+# 🚀 Featured Projects
+
+
 <table>
 <tr>
 <td width="100%">
 
-### 🛡️ Enclaveia &nbsp;·&nbsp; <sub>![Hackathon](https://img.shields.io/badge/Gemma%204%20Good%20Hackathon-6f42c1?style=flat-square&logo=google&logoColor=white)</sub>
-**Privacy-First Local AI Decision Intelligence Dashboard**
 
-Upload any sensitive dataset and instantly get KPI dashboards, AI-generated executive summaries, and deep statistical insights — **entirely on your machine**. No cloud. No API keys. No data leakage.
+## 🛡️ Enclaveia
 
-Powered by **Google Gemma 4** running locally via Ollama, Enclaveia is built for businesses and teams who can't risk sending financial, healthcare, or proprietary data to external servers.
+### Privacy-First Local AI Decision Intelligence Platform
 
-`Python` `FastAPI` `Next.js` `Pandas` `Ollama` `Gemma 4` `ECharts` `Tailwind CSS`
 
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github)](https://github.com/truptibhalekarr/Enclaveia)
+Transform datasets into executive insights using local AI — without sending sensitive data to external servers.
+
+Built for teams handling private business, healthcare, or financial information where security matters.
+
+
+<br>
+
+
+| Engineering Area | Implementation |
+|-|-|
+| AI | Local LLM Processing using Gemma via Ollama |
+| Backend | FastAPI Analytics Pipeline |
+| Frontend | Next.js + React + Tailwind |
+| Data Engine | Pandas Statistical Profiling |
+| Security | Zero External API Dependency |
+| Impact | Private Enterprise AI Analytics |
+
+
+<br>
+
+
+`Python`
+`FastAPI`
+`Next.js`
+`React`
+`Ollama`
+`Gemma`
+`Pandas`
+`ECharts`
+
+
+<br>
+
+
+[![Repository](https://img.shields.io/badge/View%20Repository-7C3AED?style=for-the-badge&logo=github)](https://github.com/truptibhalekarr/Enclaveia)
+
 
 </td>
 </tr>
 </table>
 
-<!-- InsightIQ + RL side by side -->
+
+
 <table>
 <tr>
+
 <td width="50%">
 
-### 🔮 InsightIQ
-**Automated Business Intelligence System**
 
-AI-powered system that converts raw datasets into interactive dashboards and actionable business insights — automatically.
+## 🧬 AntiLysis AI
 
-`Python` `Pandas` `Plotly` `Streamlit` `AI`
+### Industrial ML Digital Twin
 
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github)](https://github.com/truptibhalekarr/insightiq)
+
+AI-powered predictive system for biochemical fermentation monitoring.
+
+
+| Area | Details |
+|-|-|
+| ML Model | Random Forest Regression |
+| Pipeline | StandardScaler + Modular ML |
+| Accuracy | 99.93% R² Score |
+| Interface | Streamlit Dashboard |
+
+
+`Python`
+`Scikit-Learn`
+`Streamlit`
+`Machine Learning`
+
+
+<br>
+
+
+[![Repository](https://img.shields.io/badge/View%20Repo-312E81?style=flat-square&logo=github)](https://github.com/truptibhalekarr/Antilysis_AI)
+
 
 </td>
+
+
 <td width="50%">
 
-### 🤖 RL Data Analyst Agent
-**Reinforcement Learning for Data Analysis**
 
-An RL environment where an AI agent learns to analyze data step-by-step — column classification, KPI selection, chart selection, and insight generation.
+## 🔮 InsightIQ
 
-`Python` `FastAPI` `RL` `Docker` `HuggingFace`
+### Automated Intelligence Dashboard
 
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github)](https://github.com/truptibhalekarr/RL_Data_Analyst)
-[![Demo](https://img.shields.io/badge/Live%20Demo-FF6B9D?style=flat-square&logo=huggingface)](https://huggingface.co/spaces/truptibhalekarr/RL_Data_Analyst_Agent)
+
+AI powered system converting datasets into dashboards and business insights automatically.
+
+
+| Area | Details |
+|-|-|
+| Focus | Automated BI |
+| Processing | Data Understanding |
+| Output | Interactive Analytics |
+
+
+`Python`
+`Pandas`
+`Visualization`
+`AI`
+
+
+<br>
+
+
+[![Repository](https://img.shields.io/badge/View%20Repo-312E81?style=flat-square&logo=github)](https://github.com/truptibhalekarr/insightiq)
+
 
 </td>
+
+<table>
+<tr>
+
+<td width="50%">
+
+
+## 🤖 RL Data Analyst Agent
+
+### Reinforcement Learning Based Analytics Assistant
+
+
+An experimental AI agent that learns how to perform data analysis decisions including KPI selection, chart recommendation, and insight generation.
+
+
+| Area | Details |
+|-|-|
+| AI | Reinforcement Learning Concepts |
+| Backend | FastAPI |
+| Deployment | HuggingFace |
+| Focus | Automated Data Analysis |
+
+
+`Python`
+`RL`
+`FastAPI`
+`HuggingFace`
+`AI Agent`
+
+
+<br>
+
+
+[![Repository](https://img.shields.io/badge/View%20Repo-7C3AED?style=flat-square&logo=github)](https://github.com/truptibhalekarr/RL_Data_Analyst)
+
+
+</td>
+
+
+<td width="50%">
+
+
+## 📊 AI Readiness Analysis
+
+### Workforce AI Transformation Dashboard
+
+
+Business intelligence project analyzing AI adoption readiness and automation impact across organizations.
+
+
+| Area | Details |
+|-|-|
+| Domain | HR Analytics |
+| Tool | Tableau |
+| Analysis | AI Exposure & Adoption |
+| Output | Executive Dashboard |
+
+
+`Tableau`
+`Analytics`
+`Data Visualization`
+`BI`
+
+
+<br>
+
+
+[![Repository](https://img.shields.io/badge/View%20Repo-7C3AED?style=flat-square&logo=github)](https://github.com/truptibhalekarr/AI-Readiness-and-Transformation-Analysis)
+
+
+</td>
+
 </tr>
 </table>
 
+
+
 ---
 
-## 🛠️ Tech Stack
+
+# 🧠 AI / ML Expertise
+
 
 <div align="center">
 
-**Languages & Core**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+| Domain | Skills |
+|-|-|
+| Machine Learning | Regression • Classification • Clustering |
+| ML Models | Linear Regression • Logistic Regression • Decision Tree • Random Forest |
+| Data Science | EDA • Data Cleaning • Feature Engineering |
+| Analytics | Statistical Analysis • Dashboard Development |
+| AI Engineering | Local AI • AI Agents • Automation |
+| Visualization | Power BI • Tableau • Matplotlib • Seaborn |
 
-**Data & ML**
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-
-**AI & Deployment**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
+
+
 ---
 
-## 📊 GitHub Stats
+
+# 🛠️ Technology Stack
+
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=truptibhalekarr&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=C44BD8&icon_color=FF6B9D&text_color=ffffff&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=truptibhalekarr&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=C44BD8&text_color=ffffff" />
 
-<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=truptibhalekarr&theme=radical&hide_border=true&background=0D1117&stroke=C44BD8&ring=FF6B9D&fire=FF6B9D&currStreakLabel=C44BD8" />
+### Languages
+
+
+![Python](https://img.shields.io/badge/Python-7C3AED?style=for-the-badge&logo=python&logoColor=white)
+
+![SQL](https://img.shields.io/badge/SQL-4F46E5?style=for-the-badge&logo=mysql&logoColor=white)
+
+
+
+### AI / Data Science
+
+
+![Pandas](https://img.shields.io/badge/Pandas-312E81?style=for-the-badge&logo=pandas)
+
+![NumPy](https://img.shields.io/badge/NumPy-4338CA?style=for-the-badge&logo=numpy)
+
+![Scikit Learn](https://img.shields.io/badge/ScikitLearn-6D28D9?style=for-the-badge&logo=scikitlearn)
+
+![Matplotlib](https://img.shields.io/badge/Matplotlib-7C3AED?style=for-the-badge)
+
+
+
+### Development
+
+
+![FastAPI](https://img.shields.io/badge/FastAPI-4F46E5?style=for-the-badge&logo=fastapi)
+
+![NextJS](https://img.shields.io/badge/Next.js-312E81?style=for-the-badge&logo=nextdotjs)
+
+![Streamlit](https://img.shields.io/badge/Streamlit-7C3AED?style=for-the-badge&logo=streamlit)
+
+
+
+### Tools
+
+
+![Git](https://img.shields.io/badge/Git-4338CA?style=for-the-badge&logo=git)
+
+![GitHub](https://img.shields.io/badge/GitHub-312E81?style=for-the-badge&logo=github)
+
+![VSCode](https://img.shields.io/badge/VS_Code-6D28D9?style=for-the-badge)
+
+![PowerBI](https://img.shields.io/badge/PowerBI-7C3AED?style=for-the-badge)
+
+![Tableau](https://img.shields.io/badge/Tableau-4F46E5?style=for-the-badge)
+
 
 </div>
 
+
+
 ---
 
-## 🏆 Achievements
+
+# 🏆 Achievements
+
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=truptibhalekarr&theme=radical&no-frame=true&margin-w=10)
+
+| Recognition | Details |
+|-|-|
+| 🥇 Tech Mela Winner | 1st Prize Winner for InsightIQ Project |
+| 🤖 AI Builder | Developed Local AI & ML Applications |
+| 📊 Data Analytics | Built Business Intelligence Dashboards |
+| 🚀 Product Engineering | Converted ML concepts into working products |
+
 
 </div>
 
----
 
-## 💡 What I'm Building Towards
-
-> *"I don't just want to analyze data — I want to build systems that make data analysis accessible, automated, and actionable for every business."*
-
-Currently focused on **Enclaveia** — a fully local AI intelligence platform that lets anyone upload sensitive datasets and get production-grade business insights, powered by Gemma 4, with zero data leaving their machine. And **InsightIQ** — taking the same vision to the cloud, making BI accessible without an analyst.
 
 ---
+
+
+# 📜 Certifications
+
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6B48FF,50:C44BD8,100:FF6B9D&height=120&section=footer&animation=fadeIn" />
 
-**✨ Open to collaborations, internships, and exciting data problems!**
+![Python](https://img.shields.io/badge/Python-Certified-7C3AED?style=for-the-badge)
 
-![Profile Views](https://komarev.com/ghpvc/?username=truptibhalekarr&color=C44BD8&style=for-the-badge&label=Profile+Views)
+![SQL](https://img.shields.io/badge/SQL-Certified-4F46E5?style=for-the-badge)
+
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-Certified-6D28D9?style=for-the-badge)
+
+![Power BI](https://img.shields.io/badge/PowerBI-Certified-4338CA?style=for-the-badge)
+
+![Tableau](https://img.shields.io/badge/Tableau-Certified-312E81?style=for-the-badge)
+
 
 </div>
+
+
+
+---
+
+
+# 📈 GitHub Analytics
+
+
+<div align="center">
+
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=truptibhalekarr&show_icons=true&theme=midnight-purple&hide_border=true"/>
+
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=truptibhalekarr&layout=compact&theme=midnight-purple&hide_border=true"/>
+
+
+<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=truptibhalekarr&theme=midnight-purple&hide_border=true"/>
+
+
+</div>
+
+
+
+---
+
+
+# 🏅 GitHub Trophies
+
+
+<div align="center">
+
+
+<img src="https://github-profile-trophy.vercel.app/?username=truptibhalekarr&theme=discord&no-frame=true&margin-w=10"/>
+
+
+</div>
+
+
+
+---
+
+
+# 📊 Contribution Activity
+
+
+<div align="center">
+
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=truptibhalekarr&theme=tokyo-night&hide_border=true"/>
+
+
+</div>
+
+
+
+---
+
+
+# 🐍 Contribution Snake
+
+
+<div align="center">
+
+
+<img src="https://raw.githubusercontent.com/truptibhalekarr/truptibhalekarr/output/github-contribution-grid-snake-dark.svg"/>
+
+
+</div>
+
+
+
+---
+
+
+# 💡 Current Focus
+
+
+```yaml
+Learning:
+  - Advanced Machine Learning
+  - AI Engineering
+  - Production Ready AI Systems
+
+Building:
+  - Intelligent Applications
+  - AI Powered Analytics
+  - Data Products
+
+Exploring:
+  - Local LLMs
+  - AI Agents
+  - Automation
+
+Open_To:
+  - AI Engineer Opportunities
+  - Data Science Roles
+  - Collaborations
+```
+
+
+---
+
+
+<div align="center">
+
+
+## 🤝 Let's Connect
+
+
+<a href="mailto:truptibhalekarr@email.com">
+<img src="https://img.shields.io/badge/Gmail-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+
+<a href="https://www.linkedin.com/in/trupti-bhalekar-249578401">
+<img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+
+<a href="https://github.com/truptibhalekarr">
+<img src="https://img.shields.io/badge/GitHub-312E81?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+
+<br><br>
+
+
+<i>
+"I don't just analyze data — I build intelligent systems that make data useful."
+</i>
+
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,50:7C3AED,100:312E81&height=120&section=footer"/>
+
+
+</div>
+
+</tr>
+</table>
