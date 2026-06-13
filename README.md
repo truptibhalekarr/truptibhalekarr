@@ -38,49 +38,72 @@
 ## 🧠 About Me
 
 
-```python
-trupti = {
+<div align="center">
 
-    "role":
-        "AI & Data Science Developer",
+### AI & Data Science Developer building intelligent, data-driven products
 
-    "focus":
-        [
-            "Machine Learning Engineering",
-            "AI Powered Applications",
-            "Data Driven Products",
-            "Business Intelligence Systems"
-        ],
-
-    "currently_building":
-        [
-            "Enclaveia — Privacy First Local AI Platform",
-            "InsightIQ — Automated BI System",
-            "RL Data Analyst Agent"
-        ],
-
-    "engineering_mindset":
-        "Convert complex problems into simple intelligent solutions",
-
-    "location":
-        "India 🇮🇳"
-}
-```
+</div>
 
 
-I enjoy building **AI systems that go beyond notebooks** — transforming models, analytics, and ideas into usable products.
+I am passionate about designing **AI-powered systems that transform raw data into meaningful decisions**.  
+My focus is on combining **Machine Learning, Data Science, and Software Engineering** to create practical solutions beyond traditional notebooks.
 
-My work combines:
+<br>
 
-- Artificial Intelligence
-- Machine Learning
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+### 🚀 Currently Building
+
+- 🛡️ **Enclaveia**  
+  Privacy-first Local AI Intelligence Platform
+
+- 🔮 **InsightIQ**  
+  Automated Business Intelligence System
+
+- 🤖 **RL Data Analyst Agent**  
+  AI-driven analytical assistant
+
+</td>
+
+
+<td width="50%">
+
+### 🎯 Focus Areas
+
+- Machine Learning Engineering
+- AI Powered Applications
+- Data Analytics Systems
 - Full Stack AI Development
-- Data Analytics
-- Automation
-- Product Engineering
+- Intelligent Automation
+
+</td>
+
+</tr>
+
+</table>
 
 
----
+<br>
+
+
+<div align="center">
+
+### Engineering Mindset
+
+*"Building AI solutions that are practical, scalable, and solve real-world problems."*
+
+<br>
+
+<img src="https://img.shields.io/badge/AI%20Engineering-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Product%20Thinking-4F46E5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Driven-6D28D9?style=for-the-badge"/>
+
+</div>
 
 
 # 🚀 Featured Projects
